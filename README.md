@@ -12,3 +12,6 @@ You can find my solution in the `day_1/main.py` file. Feel free to check it out 
 ### Day 2 - Finding Repeated Patterns
 For Day 2 of Advent of Code 2025, I tackled a problem that involves finding repeated patterns in a sequence of numbers. The challenge was to identify the first number that appears more than once in the sequence. I implemented a solution in Python that efficiently tracks the numbers seen so far and checks for repetitions. This exercise helped me enhance my skills in breaking down the problems and solve them step by step.
 You can find my solution in the `day_2/main.py` file. I welcome any feedback or suggestions for improvement!
+
+### Day 3 - Finding Max Value in A Numerical Sequence
+For Day 3 of Advent of Code 2025, I worked on a problem that involves finding the maximum value in a numerical sequence. The challenge was to process a list of numbers and determine the highest value present. I implemented a solution in Python that iterates through the list and keeps track of the maximum value found so far. This exercise helped me improve my skills in working with lists and basic algorithms. Unfortunately, I haven't solved part 2 correctly yet. 
